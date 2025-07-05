@@ -1,0 +1,34 @@
+timestamp,query,response,topic,rating
+2025-06-29 22:16:46.469554,hello,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:17:01.546343,hai,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:17:06.634037,hai,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:17:16.243799,heyy,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:20:16.892319,what is ai?,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:20:24.940710,what is ai?,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:20:45.518318,what is ai?,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:22:14.222044,hello,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:22:17.158028,hello,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:22:19.446052,hello,"Sorry, I don't understand.",Unknown,1
+2025-07-02 20:31:03.030651,fever,Please consult a doctor. It might be a viral fever.,Health,1
+2025-07-02 20:36:11.174208,java,Java is a programming language.,Programming,1
+2025-07-02 20:52:47.542720,fever,Please consult a doctor. It might be a viral fever.,Health,1
+2025-07-02 21:49:17.975540,Tell something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 20:20:47.362565,what is java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 20:21:04.767091,suffering from fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,1
+2025-07-05 21:05:31.774851,what is java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:05:48.424202,suffering from fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,2
+2025-07-05 21:06:08.521451,what is java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:07:09.664329,tell me something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:07:24.986654,suffering from fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,3
+2025-07-05 21:07:41.779677,fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,1
+2025-07-05 21:08:00.810897,what is java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:08:57.218520,tell me something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:08:59.141445,tell me something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,2
+2025-07-05 21:09:04.795246,tell me something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:09:09.509658,suffering from fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,3
+2025-07-05 21:09:16.014954,suffering from fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,1
+2025-07-05 21:09:21.143047,fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,5
+2025-07-05 21:09:27.843274,fever,Please consult a doctor. It might be a viral fever. Take rest and drink water.,Health,1
+2025-07-05 21:09:36.647624,what is java,Java is a programming language.Java is an object oriented programming language.,Programming,2
+2025-07-05 21:10:56.398512,what is java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-05 21:10:57.820730,what is java?,Java is a programming language.Java is an object oriented programming language.,Programming,2
